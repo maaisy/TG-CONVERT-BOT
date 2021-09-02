@@ -9,8 +9,8 @@
   ],
   "logo": "https://telegra.ph/file/7f3b556164324610e21a6.jpg",
   "success_url": "https://telegram.dog/convert_Ns_bot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "website": "https://github.com/maaisy/TG-CONVERT-BOT",
+  "repository": "https://github.com/maaisy/TG-CONVERT-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -21,8 +21,8 @@
       "value": ""
     },
     "USER_NAME": {
-      "description": "Your name like @NS_AnoNymouS",
-      "value": "@NS_AnoNymouS"
+      "description": "Your name like @AD_OfficialChannel",
+      "value": "@AD_OfficialChannel"
     },
     "BOT_PASSWORD": {
       "description": "Password for using this bot. If you don't set any password bot can be used as public",
